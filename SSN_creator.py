@@ -6,12 +6,12 @@ import turtle
 
 WIDTH = 1  ##TODO: This has not been used yet. The width of the lines will be set according to their Horton order
 ANGLE = 40
-BRANCH_LENGTH = 100
-CONTROLPOINT_SIZE = 25
-DAM_SIZE = 25  
-ORDER = 3
+BRANCH_LENGTH = 50
+CONTROLPOINT_SIZE = 15
+DAM_SIZE = 15  
+ORDER = 5
 
-INITIAL_PEN_POSITION = (0.0, -300)
+INITIAL_PEN_POSITION = (-100, -300)
 
 
 if __name__ == "__main__":
