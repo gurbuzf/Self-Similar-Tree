@@ -1,7 +1,7 @@
 # Self-Similar-Tree
 A simple python-turtle implementation to create a deterministic self-similar tree.
 
-<img src="SSN_5.JPG" width="500"  />
+<img src="SSN_5.png" width="500" />
 
 
 ## About
